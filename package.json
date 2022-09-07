@@ -5,6 +5,10 @@
   "main": "index.js",
   "author": "Julio Litzenberg",
   "license": "MIT",
+  "scripts": {
+    "start": "webpack --watch --progress --config webpack.dev.js",
+    "build": "webpack --watch --progress --config webpack.prod.js"
+  },
   "dependencies": {},
   "devDependencies": {
     "@types/chrome": "^0.0.196",
