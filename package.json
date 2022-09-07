@@ -1,0 +1,8 @@
+{
+  "name": "react-extension-boilerplate",
+  "version": "1.0.0",
+  "description": "An extension boilerplate for google chrome build with react and typescript",
+  "main": "index.js",
+  "author": "Julio Litzenberg",
+  "license": "MIT"
+}
