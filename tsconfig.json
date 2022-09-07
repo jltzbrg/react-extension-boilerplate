@@ -8,5 +8,6 @@
     "forceConsistentCasingInFileNames": true,           
     "strict": true,                                      
   },
-  "include": ["scr/**/*.ts", "src/**/*.tsx"]
+  "include": ["scr/**/*.ts", "src/**/*.tsx"],
+  "exclude": ["node_modules"]
 }
